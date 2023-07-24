@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Your Budget Buddy</b></h3>
+  <h3><b>Hello-react-rails</b></h3>
 
 </div>
 
@@ -27,12 +27,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Your_Budget_Buddy] <a name="about-project"></a>
+# 📖 [Hello_rails_react] <a name="about-project"></a>
 
-> Your budget buddy helps you organise your spendings and keeps track of your expenses.
-It is built primarily with Ruby on Rails and PostgreSQL.It is a web application that allows users to create an account and add their expenses.
+>  This is a web app that generates a random greeting message. It is built with React and Ruby on Rails.
 
-**[Your_Budget_Buddy]**
+**[Hello_rails_react]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,7 +40,7 @@ It is built primarily with Ruby on Rails and PostgreSQL.It is a web application 
 <details>
 <summary>Client</summary>
 <ul>
-<li>N/A</li>
+<li>React</li>
  </ul>
 <summary>Server</summary>
 <ul>
@@ -58,21 +57,11 @@ It is built primarily with Ruby on Rails and PostgreSQL.It is a web application 
 
 <ul>
 <li>Gitflow execution</li>
-<li>Login page</li>
-<li>Signup page</li>
-<li>Use of models</li>
-<li>Add Category</li>
-<li>Add Expense</li>
-<li>View Expenses</li>
-<li>View Categories</li>
+<li>React and Ruby on Rails</li>
+<li>Generate random quotes</li>
 
 
 </ul>
-
-<h1>🚀 Live Demo</h1>
-<a href="https://budgetbuddy-vtim.onrender.com">Live Demo</a>
-<h1>Video presentation</h1>
-<a href="https://www.loom.com/share/30bd1df0948e42288034708b25227b77">Click here</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +90,7 @@ Use Terminal:
 
 cd my-folder
 
-git clone https://github.com/Rishi-Mishra0704/YourBudgetBuddy
+git clone https://github.com/Rishi-Mishra0704/hello-rails-react.git
 
 ### Install
 
